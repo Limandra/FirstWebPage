@@ -1,0 +1,61 @@
+nav {
+    display: flex;
+    border: none;
+    margin: -0.5px;
+    margin-bottom: -22px;
+  } 
+  .login, .signup {
+      background-color: #48cae4;
+  }
+  .search {
+      margin-left: 10px;
+  }
+  .home {
+    border: 3px solid white;
+    background-color: #00b4d8;
+    padding: 1px 10px;
+  }
+  .about {
+    border: 3px solid white;
+    background-color: #00b4d8;
+    padding: 1px 10px;
+  }
+  .about a {
+    color: #ffe8d6;
+  }
+  .home a {
+    color: white;
+  }
+  .career a, .contact a {
+    color: white;
+  }
+  .career {
+    border: 3px solid white;
+    background-color: #00b4d8;
+    padding: 1px 10px;
+  }
+  .contact {
+    border: 3px solid white;
+    background-color: #00b4d8;
+    padding: 1px auto; 
+  }
+  .wel {
+    border: 3px solid #023e8a;
+    color: white;
+    background-color: #023e8a;
+    padding: 30px 10px;
+  }
+  .main {
+    border: 3px solid #0096c7;
+    color: white;
+    background-color: #0096c7;
+    padding: 30px 10px;
+    margin-top: -22px;
+    border-top: 3px solid white;
+  }
+  footer {
+      background-color: #0096c7;
+      border-top: 3px solid white;
+      color: white;
+  }
+  
